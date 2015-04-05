@@ -1,0 +1,2 @@
+Ajout d'un nouveau fichier
+Avec "git add .", il devrait se rajouter tous seul à l'index
