@@ -1,3 +1,6 @@
 Ajout d'un nouveau fichier
 Avec "git add .", il devrait se rajouter tous seul à l'index
 La commande "git add ." est a réaliser avant chaque commit :(
+
+Test de la commande git commit -am "message"
+
